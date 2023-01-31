@@ -1,9 +1,0 @@
-import re
-def S(message):
-    smile = 'X-)'
-    return (len(re.findall(smile,message)))
-print(S('X-):<|=-}O8-}PX-)'))
-print(S('message 8-P<{PX<\;-}|X<O:<{(8-(;<)=-O:<{|X-P=-/X-)=-):<{)X<{|'))
-print(S('massage rtyfjfjfjijieieff80OX-))))////rthjhgdfgX-);.;<}.}<=+X-)X-}}'))
-print(S('massage : 01;<)2X-{8()(-)<_)-<+tsdtfghgjhsdds%(->==+X-)X-)X-)X-)X-)'))
-print(S('massage 1-2%=4;{]-{=|X-PVX-)X-)+;B-)S-)X-(X-(<}8X-)+6-)X-)'))
